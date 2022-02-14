@@ -1,0 +1,21 @@
+@font-face {font-family: 'Privateer';
+	src: url('../fonts/privateerregular.eot');
+	src: url('../fonts/privateerregular.eot?#iefix') format('embedded-opentype'),
+		 /*url('assets/fonts/privateerregular.woff2') format('woff2'),*/
+		 url('../fonts/privateerregular.woff') format('woff'),
+		 url('../fonts/privateerregular.ttf') format('truetype'),
+		 url('../fonts/privateerregular.svg#wf') format('svg');
+}
+
+
+.privateer {
+	font-family: "Privateer", serif;
+}
+
+h1 {
+  font-family: "Privateer", serif;
+}
+
+.section-title {
+  font-family: "Privateer", serif;
+}
