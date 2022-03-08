@@ -7,6 +7,9 @@
 		 url('../fonts/privateerregular.svg#wf') format('svg');
 }
 
+body {
+	font-family: 'Merriweather', serif;
+}
 
 .privateer {
 	font-family: "Privateer", serif;
@@ -18,4 +21,8 @@ h1 {
 
 .section-title {
   font-family: "Privateer", serif;
+}
+
+.raleway {
+	font-family: 'Raleway', sans-serif;
 }
